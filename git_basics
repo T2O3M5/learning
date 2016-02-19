@@ -1,0 +1,18 @@
+git clone
+git status
+git add . or filename
+git commit -m "asdf;adf"
+git push	push to server
+
+
+git pull   pulls from server
+
+Work flow
+1) git pull to pull in everyones updates, etc
+2) commit with every incremental piece of work that you do git add . then git commit
+3) every few hours make sure you are up to date on the project
+
+
+'esc :wq' to exit from text window in git
+
+
