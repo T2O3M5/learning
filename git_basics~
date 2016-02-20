@@ -1,5 +1,4 @@
 git clone
-git init
 git status
 git add . or filename
 git commit -m "asdf;adf"
